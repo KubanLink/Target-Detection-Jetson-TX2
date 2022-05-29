@@ -1,5 +1,5 @@
 # information includes, ubuntu for raspbi, jetson tx2 steps (troubleshooting must already be completed), downloads and VM information only at this time.
-# Overlook entire doc before you start to choose figure out whether you would like to run Oracle VM or use Rapsi Pi from this sumaarized research on packages for NVIDIA to install target detection or run aa server along your pi for target detection.
+# Overlook entire doc before you start to choose figure out whether you would like to run Oracle VM or use Rapsi Pi from this sumarized research on packages for NVIDIA to install target detection or run aa server along your pi for target detection.
 
 # Target-Detection-Jetson-TX2
 steps include map approach using raspberry pi and Jetson tx2 simplified with links and software packages.
