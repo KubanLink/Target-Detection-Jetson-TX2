@@ -1,4 +1,4 @@
-#information includes, ubuntu for mac downloads and VM information only at this time.
+#information includes, ubuntu for raspbi, jetson tx2 steps (troubleshooting must already be completed), downloads and VM information only at this time.
 
 # Target-Detection-Jetson-TX2
 steps include map approach using raspberry pi and Jetson tx2 simplified with links and software packages.
